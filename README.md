@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peter Do</h1>
-<h3 align="center">A passionate frontend developer from Ashburn, Virginia</h3>
+<h3 align="center">A passionate Fullstack Developer from Ashburn, Virginia</h3>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Mobile Development, and Front-end Development**
 
