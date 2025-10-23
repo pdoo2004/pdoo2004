@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Peter Do</h1>
 <h3 align="center">A passionate Fullstack Developer from Ashburn, Virginia</h3>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Mobile Development, and Front-end Development**
-
 - 📫 How to reach me **pdoo2004@gmail.com**
 
 - ⚡ Fun fact **I'm a photographer, guitarist, and pianist.**
